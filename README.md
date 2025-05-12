@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Prince Rwamatwara from Rwanda 🇷🇼 <br><br>- 🔭 I’m working as a Software Engineering intern and student leader involved in tech and community organizations.<br>- 📚 I'm currently studying my undergrad in Software Engineering with a minor in applied mathematics, additionally I am learning advanced iOS development, distributed systems, and AI integration for real-world applications.<br>- ⚡ In my free time I build side projects like mobile apps, playing random games like geography quizzes, I also love traveling and photography and I recently picked up the bass guitar,</p>
+<p align="left">I'm Prince Rwamatwara from Rwanda 🇷🇼 <br><br>- 🔭 I’m working as a Software Engineering intern and student leader involved in tech and community organizations.<br>- 📚 I'm currently studying my undergrad in Software Engineering with a minor in applied mathematics, additionally I am learning advanced iOS development, distributed systems, and AI integration for real-world applications.<br>- ⚡ In my free time I build side projects like mobile apps, playing random games like geography quizzes, I also love traveling and photography and I recently picked up the bass guitar.</p>
 
 ###
 
