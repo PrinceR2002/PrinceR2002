@@ -1,28 +1,5 @@
 <div align="center">
-<img height="200" width="150" src="IMG_6007.JPG"  />
-  <img height="200" width="150" src="IMG_6097.JPG"  />
 
-<img height="200" width="150" src="B2CE47A6-99CC-45F1-8329-CED11390A7BD.JPG"  />
-</div>
-
-###
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/princeyannick/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:princeyannick.pr@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=princer2002.princer2002&"  />
-</div>
 
 ###
 
